@@ -99,3 +99,11 @@
 .delete-icon {
   padding: 15px;
 }
+.delete-icon:hover {
+  cursor: pointer;
+  color: rgb(247, 81, 81);
+}
+
+.delete-icon:active {
+  scale: 1.2;
+}
