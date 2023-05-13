@@ -107,3 +107,7 @@
 .delete-icon:active {
   scale: 1.2;
 }
+
+.strike {
+  text-decoration: line-through;
+}
